@@ -2,8 +2,10 @@
 Android 仿5.0系统截屏服务端
 
 客户端地址https://github.com/OldDriver007/ScreenShotSampleClient
-
+博客地址http://blog.csdn.net/wds1181977/article/details/51957034
 ###编译mk文件 编译到系统，然后安装客服端apk 实现截屏
+
+```
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
